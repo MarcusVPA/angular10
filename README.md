@@ -4,7 +4,7 @@
 2) Open the command line (CMD)
 3) Use the command "npm install"
 4) Just wait the folder "node_modules" appears
-5) After that use the command "ng serve -o" (The letter o not a number zero)
+5) After that use the command "ng serve -o" (The letter o, not the number zero)
 6) The default link is "http://localhost:4200/"
 
 # Angular10
