@@ -1,3 +1,12 @@
+# NPM INSTALL
+
+1) Download the project
+2) Open the command line (CMD)
+3) Use the command "npm install"
+4) Just wait the folder "node_modules" appears
+5) After that use the command "ng serve -o" (The letter o not a number zero)
+6) The default link is "http://localhost:4200/"
+
 # Angular10
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
